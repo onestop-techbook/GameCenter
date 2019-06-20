@@ -10,6 +10,11 @@ CHAPS:
   
   # ゲームセンターでのマナー
   - chap-gomana2-manner.re
+
+  # アーケードシューティングで振り返るゲームセンターの歴史
+  - chap-konosumi-stg-history.re
+  # アーケードシューティングの楽しみ方
+  - chap-konosumi-stg-play.re
   
 APPENDIX:
   # 自分が好きなゲームセンター、良いゲームセンターの観点、
@@ -17,6 +22,9 @@ APPENDIX:
   # ゲームセンターじゃないとできない体験
   # ゲームセンターに行くようになって経験した楽しいこと、変わったこと
   # 本当にゲームセンターはお金がかかるのか？(ほかの趣味と比較して)
+
+  # 自宅でゲームセンターのゲームをプレイするには
+  - chap-konosumi-home-play.re
 
 POSTDEF:
   # あとがき
