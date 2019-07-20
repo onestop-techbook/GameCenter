@@ -45,6 +45,7 @@
 == 発起人/編集
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -60,20 +61,22 @@
 
 == 執筆者
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/47l90qIj_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        えるきち @erukiti https://twitter.com/erukiti\\
-        サークル名：東京ラビットハウス https://rabbit-house.tokyo/
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名：このすみ堂 https://www.konosumi.net/
         \end{minipage}
     \hspace{1ex}
 //}
-最近の技術書典ではスケジュールに無理がありすぎて、僕の見積もり力とは…という感じですが、今後はちゃんとこの本を何回も読み返して頑張っていきたいと思います。ちなみにメタプログラミング、TypeScript、VSCode大好き！その割にはフロントエンドよりもバックエンドの経験値の方が高かったり、微妙にインフラ知識・経験もあるという。技術書典6でもJS系の本を出してるに違いないです。
-
-　
+アーケードシューティングに青春を捧げました。
+式神の城2にハマりすぎて大学の単位を大量におとしましたが、それも今は良い思い出です。
+技術系の個人同人サークル、このすみ堂をやっております。
 
 
 == 表紙イラスト担当
