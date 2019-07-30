@@ -35,6 +35,9 @@ APPENDIX:
   # 自宅でゲームセンターのゲームをプレイするには
   - chap-konosumi-home-play.re
 
+  # 基板沼へようこそ
+  - appendix_nosuke.re
+
 POSTDEF:
   # あとがき
   - postscript.re
