@@ -24,7 +24,7 @@ WikipediaのTCAGの項を見ると@<fn>{Wikipedia_TCAG}、数は少ないもの�
 
 本章はそんなプリチャンの「カワイイ」にキャラクターたちにハマる大人たちについて筆者の考察を述べます。
 
-//footnote[Wikipedia_TCAG][https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0]
+//footnote[Wikipedia_TCAG][https://ja.wikipedia.org/wiki/トレーディングカードアーケードゲーム]
 //footnote[prichan][https://prichan.jp/]
 //footnote[aikatsu][https://www.aikatsu.com/friends/]
 //footnote[otoca_doll][https://www.konami.com/amusement/ac/otoca/]
