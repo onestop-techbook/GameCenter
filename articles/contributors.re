@@ -120,7 +120,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yagitch__400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/yagitch_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
 #@#        やぎっち https://twitter.com/yagitch\\
