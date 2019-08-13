@@ -80,18 +80,7 @@
 式神の城2にハマりすぎて大学の単位を大量におとしましたが、それも今は良い思い出です。
 技術系の個人同人サークル、このすみ堂をやっております。
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/nosuke_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        nosuke @konosuke https://twitter.com/konosuke\\
-        サークル名: 電脳のツボ http://www.dentsubo.net/circle
-        \end{minipage}
-    \hspace{1ex}
-//}
-昔は技術系同人誌的なものを出したりしてました。今はアーケードゲーム基板に余剰リソース全振りしてます。
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -107,15 +96,34 @@
 マブカプ２で小学校時代の青春を捧げました。ディシディアファイナルファンタジーでたまに見ると思います。
 
 
+
+　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nosuke_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        nosuke @konosuke https://twitter.com/konosuke\\
+        サークル名: 電脳のツボ http://www.dentsubo.net/circle
+        \end{minipage}
+    \hspace{1ex}
+//}
+昔は技術系同人誌的なものを出したりしてました。今はアーケードゲーム基板に余剰リソース全振りしてます。
+
+
+
 == 表紙イラスト担当
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/yagitch__400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-#@#        やぎっち @llminatoll https://twitter.com/llminatoll\\
+#@#        やぎっち https://twitter.com/yagitch\\
  #@#       サークル名：やぎっち.com 
         \end{minipage}
     \hspace{1ex}
