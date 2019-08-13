@@ -123,8 +123,8 @@
         \includegraphics[width=.75\linewidth]{images/contributors/yagitch_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-#@#        やぎっち https://twitter.com/yagitch\\
- #@#       サークル名：やぎっち.com 
+        やぎっち https://twitter.com/yagitch\\
+        サークル名：やぎっち.com 
         \end{minipage}
     \hspace{1ex}
 //}
