@@ -93,6 +93,19 @@
 //}
 昔は技術系同人誌的なものを出したりしてました。今はアーケードゲーム基板に余剰リソース全振りしてます。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/natsuo_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        natsuo @KazuyaNakahara https://twitter.com/KazuyaNakahara\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+機械学習系の会社でフルスタック気味に働いている社畜。息抜きにやるソシャゲは最高。
+マブカプ２で小学校時代の青春を捧げました。ディシディアファイナルファンタジーでたまに見ると思います。
+
 
 == 表紙イラスト担当
 
