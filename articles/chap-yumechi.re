@@ -179,7 +179,7 @@ QRコードにすることにより物理的な貸し借りが可能になりま
 2018年8月にはプリパラ5周年を記念し、プリパラのキャラクターたちのストーリーが遊べます。
 こういった過去作品の配慮は、過去の作品のファンのファンを引きつけ、作品の継続的な人気に一役買っています。
 
-//footnote[Wikipedia_PRITTY_SERIES][https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]
+//footnote[Wikipedia_PRITTY_SERIES][https://ja.wikipedia.org/wiki/プリティーシリーズ]
 //footnote[prichan_anime][https://prichan.jp/]
 
 === Vtuberとプリチャン
