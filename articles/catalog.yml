@@ -52,6 +52,9 @@ APPENDIX:
   # ゲーセンのたばこ問題
   - appendix_NicotianaTabacum.re
 
+  # ゲームセンターへのハードル
+  - appendix_oyakata_hurdle.re
+
 POSTDEF:
   # あとがき
   - postscript.re
