@@ -49,6 +49,9 @@ APPENDIX:
   # 基板沼へようこそ
   - appendix_nosuke.re
 
+  # ゲーセンのたばこ問題
+  - appendix_NicotianaTabacum.re
+
 POSTDEF:
   # あとがき
   - postscript.re
