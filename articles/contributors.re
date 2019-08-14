@@ -113,7 +113,21 @@
 //}
 昔は技術系同人誌的なものを出したりしてました。今はアーケードゲーム基板に余剰リソース全振りしてます。
 
+　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        FORTE(フォルテ) https://twitter.com/FORTEgp05\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。居酒屋でみごまなつさんを焚き付けた一人でもあるので本書の執筆に参加させていただきました。またゲーセンいきたいなぁ。
+
+　
 
 == 表紙イラスト担当
 
@@ -124,7 +138,7 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         やぎっち https://twitter.com/yagitch\\
-        サークル名：やぎっち.com 
+        サークル名：やぎっち.com
         \end{minipage}
     \hspace{1ex}
 //}
