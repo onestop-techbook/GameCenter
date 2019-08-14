@@ -2,6 +2,7 @@
 
 #@# dowonloaded jpg files used as icons
 #@# gomana2_400x400.jpg    ごまなつ
+#@# yumechi_400x400.png    yumechi
 #@# konosumi_400x400.png    このすみ
 #@# natsuo_400x400.png    natsuo
 #@# nosuke_400x400.png    nosuke
@@ -106,6 +107,20 @@
     \hspace{1ex}
 //}
 SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。居酒屋でみごまなつさんを焚き付けた一人でもあるので本書の執筆に参加させていただきました。またゲーセンいきたいなぁ。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yumechi(ゆめち) https://twitter.com/\_\_yumechi\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+腕が攣るまでbeatmania IIDX をしていた時期もありますが、今じゃ立派なアイドルになりました。コミティアは寄稿も初めてなので、どんな人に読まれるのか楽しみでなりません。一応漫画でコミケに出ていたこともある、Python大好きエンジニア兼技術広報をやっています。
 
 　
 
