@@ -26,3 +26,17 @@
 
 %% make TOC non-red color
 \hypersetup{colorlinks=false}
+
+\def\@makechapterhead#1{%
+  %\vspace*{2\Cvs}% 欧文は50pt
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \huge\headfont \@chapapp\thechapter\@chappos
+        \par\nobreak
+        \vskip 3\Cvs % 欧文は20pt
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \Huge \headfont #1\par\nobreak
+    \vskip 3\Cvs}} % 欧文は40pt

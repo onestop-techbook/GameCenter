@@ -8,14 +8,14 @@ CHAPS:
   # ゲームセンターの楽しみ方  　
   # ゲームセンターでのふるまい方
 
-  # ゲームセンターでのマナー
-  - chap-gomana2-manner.re
+  # シチュエーション別のオススメゲームジャンル
+  - chap-konosumi-situation-game.re
 
-  # 音ゲー上達法
-  - chap-gomana2-wellplay-mg.re
+  # 青春と振り返るアーケードシューティングの歴史
+  - chap-konosumi-stg-history.re
 
-  # ゲームセンターで運動するという選択肢
-  - chap-gomana2-workout.re
+  # アーケードシューティングの基本テクニック
+  - chap-konosumi-stg-basic-technic.re
 
   # yumechi 3Dモデルゲームにハマる大人たち
   - chap-yumechi.re
@@ -23,16 +23,17 @@ CHAPS:
   # 格ゲーとは何か
   - chap-natsuo-battle.re
 
-  # シチュエーション別のオススメゲームジャンル
-  - chap-konosumi-situation-game.re
-
-  # 青春と振り返るアーケードシューティングの歴史
-  - chap-konosumi-stg-history.re
-  # アーケードシューティングの基本テクニック
-  - chap-konosumi-stg-basic-technic.re
+  # 音ゲー上達法
+  - chap-gomana2-wellplay-mg.re
 
   # またゲーセンに行きたい勢に向けて
   - chap-forte.re
+
+  # ゲームセンターで運動するという選択肢
+  - chap-gomana2-workout.re
+
+  # ゲームセンターでのマナー
+  - chap-gomana2-manner.re
 
 APPENDIX:
   # 自分が好きなゲームセンター、良いゲームセンターの観点、
