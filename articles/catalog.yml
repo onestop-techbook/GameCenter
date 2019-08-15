@@ -62,7 +62,9 @@ APPENDIX:
   # 旅のお供にゲームセンター
   - chap-konosumi-gamecenter.re
 
-
+  # 私がよく行くゲームセンター
+  - appendix_gomana2.re
+  
 POSTDEF:
   # あとがき
   - postscript.re
