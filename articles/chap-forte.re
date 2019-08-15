@@ -17,7 +17,7 @@ FORTE@FORTEgp05
 
 高校生も専門学生時代も数えるくらいのタイトルしかやっていませんでした。主に格闘ゲーム、アクションゲームが好きで次のタイトルを良くプレイしていました。
 
- * バーチャロンシリーズ
+ * 電脳戦機バーチャロンシリーズ
  * CAPCOM VS. SNK 2
  * SNK VS. CAPCOM SVC CHAOS
  * MARVEL VS. CAPCOM 2

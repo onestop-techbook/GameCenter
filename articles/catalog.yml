@@ -22,7 +22,7 @@ CHAPS:
 
   # 格ゲーとは何か
   - chap-natsuo-battle.re
-  
+
   # シチュエーション別のオススメゲームジャンル
   - chap-konosumi-situation-game.re
 
@@ -54,6 +54,10 @@ APPENDIX:
 
   # ゲームセンターへのハードル
   - appendix_oyakata_hurdle.re
+
+  # 珍しいゲームセンターのゲーム
+  - appendix_forte.re
+
 
 POSTDEF:
   # あとがき
