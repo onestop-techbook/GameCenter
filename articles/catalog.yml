@@ -8,9 +8,6 @@ CHAPS:
   # ゲームセンターの楽しみ方  　
   # ゲームセンターでのふるまい方
 
-  # ゲームセンターでのマナー
-  - chap-gomana2-manner.re
-
   # 音ゲー上達法
   - chap-gomana2-wellplay-mg.re
 
@@ -33,6 +30,9 @@ CHAPS:
 
   # またゲーセンに行きたい勢に向けて
   - chap-forte.re
+
+  # ゲームセンターでのマナー
+  - chap-gomana2-manner.re
 
 APPENDIX:
   # 自分が好きなゲームセンター、良いゲームセンターの観点、
