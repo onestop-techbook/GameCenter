@@ -58,7 +58,7 @@ a-choはビデオゲームの名店でシューティングも多く稼働して
 
 == (愛知) GAME BOX Q3(Q2)
 
- * http://aoijun.sakura.ne.jp/Q2/
+ * @<href>{http://aoijun.sakura.ne.jp/Q2/}
 
 名古屋駅の西口から徒歩10分前後の場所にあるのがGAME BOX Q3です。
 以前はQ2が店名だった気がするのですが、名前が変わったのかもしれません。
